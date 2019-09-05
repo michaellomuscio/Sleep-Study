@@ -10,5 +10,5 @@ PhoneTime = Do you use your phone within 30 minutes of falling asleep?
 Tired = On a scale from 1 to 5, how tired are you throughout the day? (1 being not tired, 5 being very tired)
 Breakfast = Do you typically eat breakfast?
 
-## Pilot Study
+## Pilot Study (SleepStudyPilot.csv)
 This data was conducted as a pilot study to determine whether or not students were satisfied with the survey.
