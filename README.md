@@ -1,5 +1,5 @@
 # Sleep-Study
-Data collected from a survey-based study of the sleeping habits of students conducted by statistics students.
+Data collected from a survey-based study of the sleeping habits of individuals.
 
 Here is a description of each of the variables contained within the dataset.
 
