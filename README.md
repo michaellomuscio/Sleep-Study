@@ -16,4 +16,4 @@ Tired = On a scale from 1 to 5, how tired are you throughout the day? (1 being n
 Breakfast = Do you typically eat breakfast?
 
 ## Pilot Study (SleepStudyPilot.csv)
-This data was conducted as a pilot study to determine whether or not students were satisfied with the survey.
+This data was collected as part of a pilot study to determine whether or not students were satisfied with the survey they created.
