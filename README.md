@@ -17,3 +17,6 @@ Breakfast = Do you typically eat breakfast?
 
 ## Pilot Study (SleepStudyPilot.csv)
 This data was collected as part of a pilot study to determine whether or not students were satisfied with the survey they created.
+
+## Sleep Study Data (SleepStudyData.csv)
+This is the data collected from the study.
